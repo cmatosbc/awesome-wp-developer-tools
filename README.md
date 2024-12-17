@@ -22,6 +22,7 @@ A collection of plugins, starter themes and tools to make WordPress development 
 * [wp-amazon-s3-api](https://github.com/wp-api-libraries/wp-amazon-s3-api) - Amazon Web Services' Simple Storage Service (AWS S3) API integration.
 * [wp-deploybot-api](https://github.com/wp-api-libraries/wp-deploybot-api) - Deploybot API integration.
 * [wp-packagist-api](https://github.com/wp-api-libraries/wp-packagist-api) - Composer's Packagist API integration.
+* [wp-coderpress-endpoint](https://github.com/cmatosbc/coderpress-endpoints) - Modern PHP 8.1+ library to create custom endpoints for WP API. Includes caching, logging and middlewares support.
 
 ## WordPress Plugins
 * [A Healthier Option](https://github.com/zao-web/a-healthier-option) - Ever had an unwieldy options table slow you down and cause crazy errors? Maybe you have, but don't know it? A Healthier Option helps your options table get back into shape.
